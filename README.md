@@ -1,4 +1,4 @@
-Hola, soy Ángel 👋
+Hola, soy Ángel
 
 Analista de Seguridad en formación · Blue Team · Red Team · SecOps
 
@@ -7,7 +7,7 @@ Técnico Superior en ASIR cursando el Máster en Ciberseguridad e IA (Evolve Aca
 Aprendo construyendo desde ambos lados: despliego honeypots y herramientas de detección para entender cómo defender, y practico explotación de vulnerabilidades web para entender cómo se ataca de verdad — esa combinación de perspectiva ofensiva y defensiva es lo que más me interesa de la seguridad.
 
 
-🍯 Proyecto destacado: FlyPaper
+ Proyecto destacado: FlyPaper
 
 Honeypot web de alta interacción, desplegado en producción en Hetzner Cloud, con IA integrada para análisis de ataques. Construido replicando vulnerabilidades reales (SQLi, XSS) como cebo, para estudiar el ataque desde ambos lados: cómo se explota y cómo se detecta.
 
@@ -27,7 +27,7 @@ CLI en Python que analiza código .py con LLMs (Groq/Anthropic): detecta inputs 
 🔗 github.com/angelmarttnez/PyNer
 
 
-🎯 Seguridad ofensiva / Red Team
+Seguridad ofensiva / Red Team
 
 Practico explotación de vulnerabilidades web en entornos controlados como base para mi objetivo de especializarme en pentesting:
 
@@ -38,8 +38,7 @@ Escalada de privilegios básica en entornos Linux y Windows
 CTFs y máquinas: 13 en Hack The Box (Starting Point), 6 en HackMyVM (incluyendo enumeración de Active Directory)
 Camino hacia eJPTv2, con vista a certificaciones de Red Team más adelante
 
-
-🛠️ Competencias
+Competencias
 
 Seguridad defensiva: monitorización de eventos, análisis de tráfico (Wireshark), despliegue y análisis de honeypots
 
@@ -47,7 +46,7 @@ Infraestructura: Docker en producción (Hetzner Cloud) · Linux (bash, hardening
 
 Desarrollo: Python (Flask/SQLite) · análisis de logs · integración de IA en herramientas de seguridad
 
-📜 Certificaciones y práctica
+ Certificaciones y práctica
 
 
 eJPTv2 — en preparación (examen previsto oct. 2026)
